@@ -20,7 +20,7 @@ console.log(" ");
 console.log(chalk.bold.italic.whiteBright("PIN: 15325"));
 console.log(" ");
 
-// asking for pin user
+// asking for pin from user
 let enterPin = await inquirer.prompt(
 [
     {
