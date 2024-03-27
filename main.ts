@@ -15,7 +15,7 @@ import chalk from "chalk";
 let myBalance = 15000;
 const myPin = 15325;
 
-// printing right to use through npx
+// printing right pin to use through npx
 console.log(" ");
 console.log(chalk.bold.italic.whiteBright("PIN: 15325"));
 console.log(" ");
